@@ -4,7 +4,7 @@
 console.log(arroz);
 */
 
-var NumeroFixado=198789451
+let NumeroFixado=19
 let RestoDaDivisaoDoNumeroFixadoPor2;
 RestoDaDivisaoDoNumeroFixadoPor2 = NumeroFixado%2;
 console.log(RestoDaDivisaoDoNumeroFixadoPor2);
@@ -16,3 +16,4 @@ console.log(RestoDaDivisaoDoNumeroFixadoPor2);
         {
             console.log("Numero informado é par");
         }
+        
